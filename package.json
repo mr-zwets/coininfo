@@ -1,5 +1,5 @@
 {
-  "name": "coininfo",
+  "name": "@psf/coininfo",
   "version": "4.0.0",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
