@@ -1,5 +1,5 @@
 {
-  "name": "@psf/coininfo",
+  "name": "coininfo-xrg",
   "version": "4.0.0",
   "description": "JavaScript component for crypto currency specific information.",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "monacoin",
     "zcash",
     "vertcoin",
-    "qtum"
+    "xrg"
   ],
   "devDependencies": {
     "standard": "*",
